@@ -1,6 +1,7 @@
-# QuizSimulation
+# Quiz Simulation
 
 This is a small quiz simulation. It is designed to run like a television quiz where a quiz master gives a multi-choice question and contestants are expected to answer.
+
 ---
 
 ### Features:
@@ -8,6 +9,7 @@ This is a small quiz simulation. It is designed to run like a television quiz wh
 - The ability to change how long a round is to last
 - The ability to change how long a contestant is to "think" about an answer
 - The ability to obtain up to questions from the Open Trivia DB
+
 ---
 
 ### Known Bugs:
