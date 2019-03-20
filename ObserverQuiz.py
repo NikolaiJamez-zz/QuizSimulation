@@ -9,7 +9,7 @@ QUESTION_INDEX = 0
 ANSWER_INDEX = 1
 TIME_LIMIT = 20
 URL = "https://opentdb.com/api.php?amount={}&type=multiple".format(QUESTION_NUM)
-NAME_LOCATION = "../Resources/RandomNames.txt"  # Gets random contestant names from file
+NAME_LOCATION = "RandomNames.txt"  # Gets random contestant names from file
 PLAYERS = 5
 SEPARATOR = "=========="
 
